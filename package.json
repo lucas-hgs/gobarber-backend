@@ -4,9 +4,9 @@
   "description": "Continuando os aprendizados com Node.js e TypeScript aproveitando o projeto desenvolvido até agora para começar a trabalhar com conceitos de banco de dados, autenticação, autorização, etc.",
   "main": "index.js",
   "author": {
-    "name": "José Eduardo Rodrigues Pinto",
-    "email": "jerp4@hotmail.com",
-    "url": "https://www.linkedin.com/in/jerp/"
+    "name": "Lucas Henrique Gonçalves da Silvera",
+    "email": "lucas.hgs03@gmail.com",
+    "url": "https://www.linkedin.com/in/lucas-hgs/"
   },
   "license": "MIT",
   "scripts": {
