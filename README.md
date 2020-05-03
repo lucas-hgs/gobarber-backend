@@ -18,6 +18,8 @@ O projeto consiste em uma aplicação para uma barbearia. Onde existe o cadastro
 
 **Axios**
 
+**Cors**
+
 ## Como clonar e iniciar o projeto
 
 1. Clone o projeto utilizando o seguinte comando: ```git clone https://github.com/lucas-hgs/gobarber-backend.git```
